@@ -16,12 +16,12 @@
 
 /* 3. Внутрішні та зовнішні відступи */
 .spacing {
-    padding: 20px; /* Внутрішній відступ: 20px з усіх сторін. */
-    margin: 10px; /* Зовнішній відступ: 10px з усіх сторін. */
+    padding: 20px; 
+    margin: 10px; 
 }
 
 /* 4. Рамки */
 .border {
-    border: 2px dotted #FF0000; /* Тип рамки: пунктирна (dotted). Колір рамки: червоний (#FF0000). Товщина рамки: 2px. */
-    border-radius: 10px; /* Заокруглені кути: радіус 10px. */
+    border: 2px dotted #FF0000; 
+    border-radius: 10px; 
 }
